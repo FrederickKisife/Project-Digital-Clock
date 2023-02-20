@@ -2,6 +2,8 @@
     max-width: 130px; 
     height: 150px;
     margin-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
     border: 10px double white;
     border-radius: 80%; 
     background-color: rgba(9, 9, 8, 0.9);
@@ -9,6 +11,7 @@
     font-weight: bold;
     text-align: center;
     font-size: medium;
+    display: block;
 }
 
 .clock{
