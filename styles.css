@@ -1,0 +1,18 @@
+.container{
+    max-width: 130px; 
+    height: 150px;
+    margin-top: 200px;
+    border: 10px double white;
+    border-radius: 80%; 
+    background-color: rgba(9, 9, 8, 0.9);
+    color:rgb(240, 247, 249);
+    font-weight: bold;
+    text-align: center;
+    font-size: medium;
+}
+
+.clock{
+    text-align: center;
+    padding-top: 55px;
+    
+}
